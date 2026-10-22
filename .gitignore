@@ -1,0 +1,28 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Excel temporary files
+~$*
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# VS Code
+.vscode/
+
+# Credentials
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+# Local audit review copies
+BR001_Audit_Review/
+BR001_Audit_Review.zip
+# Notebook backups
+*.ipynb.bak
